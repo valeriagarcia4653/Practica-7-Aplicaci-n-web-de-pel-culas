@@ -1,1 +1,1 @@
-# Practica-7-Aplicaci-n-web-de-pel-culas
+# Practica-7-Aplicacion-web-de-peliculas
