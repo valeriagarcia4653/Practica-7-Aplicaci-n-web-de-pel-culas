@@ -1,3 +1,7 @@
+.title
+{
+    color: white;
+}
 .movieCard
 {
     list-style: none;
@@ -10,12 +14,13 @@
 {
     opacity: 0.5;
     transform: translateY(-25px);
-    transition: 0.5s;
+    
 }
 
 .movieImage
 {
     border-radius: 15px;
+    width: 100%;
  
 }
 
