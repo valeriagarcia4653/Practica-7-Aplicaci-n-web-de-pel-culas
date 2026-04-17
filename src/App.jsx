@@ -1,6 +1,6 @@
 import "./App.css";
 import { MyRoutes } from "./routers/routes";
-
+import {Footer} from "./components/Footer";
 function App() {
   return (
     <div>
@@ -8,6 +8,7 @@ function App() {
         <h1 className="title">Peliculas 🍿</h1>
       </header>
       <MyRoutes />
+      <Footer/>
     </div>
   );
 }
