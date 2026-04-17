@@ -1,3 +1,13 @@
+.title
+{
+  margin-top: 20px;
+  text-align: center;
+  font-size: 3rem;
+  color: blueviolet;
+}
+
+
+
 .counter {
   font-size: 16px;
   padding: 5px 10px;
