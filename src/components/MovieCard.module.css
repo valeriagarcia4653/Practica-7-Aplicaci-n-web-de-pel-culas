@@ -13,15 +13,13 @@
 .movieCard:hover
 {
     opacity: 0.5;
-    transform: translateY(-25px);
+    transform: translateY(-30px);
     
 }
 
 .movieImage
 {
     border-radius: 15px;
-    width: 100%;
- 
 }
 
 @media (max-width: 560px)
