@@ -9,7 +9,7 @@ export function ContextMovieCard() {
     get("/discover/movie")
       .then((data) => {
         setMovies(data.results);
-        console.log(data)
+        console.log(data.results)
       })
       .catch((error) => {
         console.error("ERROR API:", error);
